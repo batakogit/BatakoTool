@@ -1,0 +1,507 @@
+﻿[
+  {
+    "id": "1",
+    "title": "100%♡オレンジ",
+    "hurigana": "1"
+  },
+  {
+    "id": "2",
+    "title": "7月のサイダー",
+    "hurigana": "7"
+  },
+  {
+    "id": "3",
+    "title": "BANBANBAN",
+    "hurigana": "b"
+  },
+  {
+    "id": "4",
+    "title": "Chocolate Truffe",
+    "hurigana": "c"
+  },
+  {
+    "id": "5",
+    "title": "Cupid in Love",
+    "hurigana": "c"
+  },
+  {
+    "id": "6",
+    "title": "DEADHEAT",
+    "hurigana": "d"
+  },
+  {
+    "id": "7",
+    "title": "Dear friend",
+    "hurigana": "d"
+  },
+  {
+    "id": "8",
+    "title": "Ei-Ei-Oh!",
+    "hurigana": "e"
+  },
+  {
+    "id": "9",
+    "title": "GAMUSHARA",
+    "hurigana": "g"
+  },
+  {
+    "id": "10",
+    "title": "LOVEイヤイヤ期",
+    "hurigana": "LOVEイヤ"
+  },
+  {
+    "id": "11",
+    "title": "Memories",
+    "hurigana": "m"
+  },
+  {
+    "id": "12",
+    "title": "PaPiPoPiポップガール",
+    "hurigana": "p"
+  },
+  {
+    "id": "13",
+    "title": "SHIBUYA TSUTAYA前で待ち合わせね!",
+    "hurigana": "s"
+  },
+  {
+    "id": "14",
+    "title": "Springood!",
+    "hurigana": "s"
+  },
+  {
+    "id": "15",
+    "title": "STAR",
+    "hurigana": "s"
+  },
+  {
+    "id": "16",
+    "title": "SWEET SWEET DAYS",
+    "hurigana": "s"
+  },
+  {
+    "id": "17",
+    "title": "Sora",
+    "hurigana": "Sora"
+  },
+  {
+    "id": "18",
+    "title": "TRAP",
+    "hurigana": "t"
+  },
+  {
+    "id": "19",
+    "title": "WANTED",
+    "hurigana": "WANTED"
+  },
+  {
+    "id": "20",
+    "title": "We Can Do It Now！",
+    "hurigana": "WeCan"
+  },
+  {
+    "id": "21",
+    "title": "愛Song!",
+    "hurigana": "あいそん"
+  },
+  {
+    "id": "22",
+    "title": "あいにきちゃった",
+    "hurigana": "あいに"
+  },
+  {
+    "id": "23",
+    "title": "雨上がり",
+    "hurigana": "あめあがり"
+  },
+  {
+    "id": "24",
+    "title": "いざ、大和撫子",
+    "hurigana": "いざ"
+  },
+  {
+    "id": "25",
+    "title": "いちず色のベンチ",
+    "hurigana": "いちず"
+  },
+  {
+    "id": "26",
+    "title": "一方通行、恋の罠",
+    "hurigana": "いっぽう"
+  },
+  {
+    "id": "27",
+    "title": "エンドレス",
+    "hurigana": "えん"
+  },
+  {
+    "id": "28",
+    "title": "お届け!デリバリースター",
+    "hurigana": "おとど"
+  },
+  {
+    "id": "29",
+    "title": "乙女のグロリアス",
+    "hurigana": "おとめの"
+  },
+  {
+    "id": "30",
+    "title": "かわいいメモリアル",
+    "hurigana": "かわいいめも"
+  },
+  {
+    "id": "31",
+    "title": "ガンバ!!",
+    "hurigana": "がん"
+  },
+  {
+    "id": "32",
+    "title": "季節外れのときめき♡サマー",
+    "hurigana": "きせつは"
+  },
+  {
+    "id": "33",
+    "title": "キタコレ!モーニング",
+    "hurigana": "きた"
+  },
+  {
+    "id": "34",
+    "title": "きっとスタンダード",
+    "hurigana": "きっと"
+  },
+  {
+    "id": "35",
+    "title": "君と過ごす日々",
+    "hurigana": "きみとすごす"
+  },
+  {
+    "id": "36",
+    "title": "きみと青春",
+    "hurigana": "きみとせい"
+  },
+  {
+    "id": "37",
+    "title": "きみに夢中ガール",
+    "hurigana": "きみに"
+  },
+  {
+    "id": "38",
+    "title": "きみにとっての幸せになりたいの",
+    "hurigana": "きみにとっての"
+  },
+  {
+    "id": "39",
+    "title": "キャラメル",
+    "hurigana": "きゃら"
+  },
+  {
+    "id": "40",
+    "title": "ギュッと！",
+    "hurigana": "ぎゅ"
+  },
+  {
+    "id": "41",
+    "title": "ぐーすかP",
+    "hurigana": "ぐー"
+  },
+  {
+    "id": "42",
+    "title": "恋のシェイプアップ♡",
+    "hurigana": "こいのしぇいぷ"
+  },
+  {
+    "id": "43",
+    "title": "恋のジャッカル",
+    "hurigana": "こいのじゃっか"
+  },
+  {
+    "id": "44",
+    "title": "こんなあたしはいかがですか",
+    "hurigana": "こんな"
+  },
+  {
+    "id": "45",
+    "title": "最上級にかわいいの！",
+    "hurigana": "さいじょ"
+  },
+  {
+    "id": "46",
+    "title": "さくら燦々",
+    "hurigana": "さくら"
+  },
+  {
+    "id": "47",
+    "title": "サンタさん・・・・・がやってこない",
+    "hurigana": "さんた"
+  },
+  {
+    "id": "48",
+    "title": "ししし！",
+    "hurigana": "ししし"
+  },
+  {
+    "id": "49",
+    "title": "下書きの恋",
+    "hurigana": "したがきの"
+  },
+  {
+    "id": "50",
+    "title": "ジャンケンポン",
+    "hurigana": "じゃん"
+  },
+  {
+    "id": "51",
+    "title": "人生最幸のメロディ",
+    "hurigana": "じんせい"
+  },
+  {
+    "id": "52",
+    "title": "すきっ！",
+    "hurigana": "すき"
+  },
+  {
+    "id": "53",
+    "title": "青春アンセム",
+    "hurigana": "せいしゅんあ"
+  },
+  {
+    "id": "54",
+    "title": "青春ハートシェイカー",
+    "hurigana": "せいしゅんは"
+  },
+  {
+    "id": "55",
+    "title": "せきがえのうた",
+    "hurigana": "せきが"
+  },
+  {
+    "id": "56",
+    "title": "ゼッタイだよ",
+    "hurigana": "ぜったいだ"
+  },
+  {
+    "id": "57",
+    "title": "音速(ソニック)アドベンチャー",
+    "hurigana": "そにっく"
+  },
+  {
+    "id": "58",
+    "title": "そんな毎日",
+    "hurigana": "そんな"
+  },
+  {
+    "id": "59",
+    "title": "大事マン☆フレンズ",
+    "hurigana": "だいじまん"
+  },
+  {
+    "id": "60",
+    "title": "大、大、大すきっ！",
+    "hurigana": "だいだいだい"
+  },
+  {
+    "id": "61",
+    "title": "超最強",
+    "hurigana": "ちょうさい"
+  },
+  {
+    "id": "62",
+    "title": "超ステップアップ",
+    "hurigana": "ちょうすて"
+  },
+  {
+    "id": "63",
+    "title": "超ときめき♡宣伝部のVICTORY STORY",
+    "hurigana": "ちょうときめき"
+  },
+  {
+    "id": "64",
+    "title": "ちょま",
+    "hurigana": "ちょま"
+  },
+  {
+    "id": "65",
+    "title": "トウメイ恋心(ハート)",
+    "hurigana": "とうめい"
+  },
+  {
+    "id": "66",
+    "title": "トゥモロー最強説!!",
+    "hurigana": "とぅもろー"
+  },
+  {
+    "id": "67",
+    "title": "遠くであがる花火 二人ならんで見てた",
+    "hurigana": "とおくで"
+  },
+  {
+    "id": "68",
+    "title": "ドキドキ ドキドキ",
+    "hurigana": "どきどき"
+  },
+  {
+    "id": "69",
+    "title": "ときどきセンチメンタル",
+    "hurigana": "ときどきせん"
+  },
+  {
+    "id": "70",
+    "title": "ときめきパーティ",
+    "hurigana": "ときめきぱー"
+  },
+  {
+    "id": "71",
+    "title": "土っキュン♡!!少女",
+    "hurigana": "どっきゅ"
+  },
+  {
+    "id": "72",
+    "title": "どどどどどりーまー",
+    "hurigana": "どどどど"
+  },
+  {
+    "id": "73",
+    "title": "ドンウォーリー！",
+    "hurigana": "どんう"
+  },
+  {
+    "id": "74",
+    "title": "ドンフィクション",
+    "hurigana": "どんふ"
+  },
+  {
+    "id": "75",
+    "title": "なんでもいいから",
+    "hurigana": "なんで"
+  },
+  {
+    "id": "76",
+    "title": "発見！ポジティブ☆モンスター！！",
+    "hurigana": "はっけん"
+  },
+  {
+    "id": "77",
+    "title": "初恋サイクリング",
+    "hurigana": "はつこい"
+  },
+  {
+    "id": "78",
+    "title": "ハピラブルー！",
+    "hurigana": "はぴらぶ"
+  },
+  {
+    "id": "79",
+    "title": "ビッグ☆バン",
+    "hurigana": "びっぐ"
+  },
+  {
+    "id": "80",
+    "title": "ビューティー",
+    "hurigana": "びゅー"
+  },
+  {
+    "id": "81",
+    "title": "ぴょんぴょん",
+    "hurigana": "ぴょん"
+  },
+  {
+    "id": "82",
+    "title": "ひらり ひらひら",
+    "hurigana": "ひらりひ"
+  },
+  {
+    "id": "83",
+    "title": "びりーぶ",
+    "hurigana": "びり"
+  },
+  {
+    "id": "84",
+    "title": "プリンセスプリンセスプリンセス",
+    "hurigana": "ぷりん"
+  },
+  {
+    "id": "85",
+    "title": "プリンセスヒーロー",
+    "hurigana": "ぷりんせすひ"
+  },
+  {
+    "id": "86",
+    "title": "フレ!フレ!",
+    "hurigana": "ふれ"
+  },
+  {
+    "id": "87",
+    "title": "僕らの未来",
+    "hurigana": "ぼくらの"
+  },
+  {
+    "id": "88",
+    "title": "ホップステップジャンプLOVE",
+    "hurigana": "ほっぷ"
+  },
+  {
+    "id": "89",
+    "title": "未完成ガール",
+    "hurigana": "みかんせいが"
+  },
+  {
+    "id": "90",
+    "title": "むてきのうた",
+    "hurigana": "むてき"
+  },
+  {
+    "id": "91",
+    "title": "妄想プールデート",
+    "hurigana": "もうそう"
+  },
+  {
+    "id": "92",
+    "title": "もっともっと もうちょっと",
+    "hurigana": "もっともっと"
+  },
+  {
+    "id": "93",
+    "title": "夢がとまらない！",
+    "hurigana": "ゆめがと"
+  },
+  {
+    "id": "94",
+    "title": "ユラグラブ",
+    "hurigana": "ゆらぐら"
+  },
+  {
+    "id": "95",
+    "title": "ライオンガール",
+    "hurigana": "らいおん"
+  },
+  {
+    "id": "96",
+    "title": "ラヴなのっ♡",
+    "hurigana": "らぶ"
+  },
+  {
+    "id": "97",
+    "title": "ラミラミ",
+    "hurigana": "らみらみ"
+  },
+  {
+    "id": "98",
+    "title": "リトライ、青春！",
+    "hurigana": "りとらい"
+  },
+  {
+    "id": "99",
+    "title": "レモンジュース",
+    "hurigana": "れもん"
+  },
+  {
+    "id": "100",
+    "title": "わがままプリンセス",
+    "hurigana": "わがまま"
+  },
+  {
+    "id": "101",
+    "title": "わたし、ナンバーワンガール!",
+    "hurigana": "わたし"
+  }
+]
