@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BatakoTool",
   "resources": {
-    "hash": "sha256-b04F9Bftxw9GNTUnQzaCSykB8B1b3kt0QiMnvUYmMI4=",
+    "hash": "sha256-/kSvbMYbA9iq+PlWXIkQOS/XzSOapCIu6OoJteS/7vs=",
     "runtime": {
       "dotnet.js": "sha256-eaJTmow4t8eE7FZMZR5Ja41JMOefGCbIYDTdpclGsac=",
       "dotnet.timezones.blat": "sha256-gbATD5HDsHYtW8vdPYh9iSBY4O5CjvMeCSF5xXWF1xo=",
@@ -59,7 +59,7 @@
       "System.Threading.dll": "sha256-PSauPErxTq+6DQmrsIT5W4OCd9kd4Qk7nwZbdqPofvk=",
       "System.dll": "sha256-X00CS76RYP+1bonecVV1Cn/0jOHeoVQUo1GS8UHpHpM=",
       "System.Private.CoreLib.dll": "sha256-p9UJVobfuOWxVqx9i1Qe2RyQ3olE5NQZcuqFjtvdyRA=",
-      "BatakoTool.dll": "sha256-tp4Ug27GY8ctLmPvRbsFduJMB+9WMJpY7ooe1lNQs3A="
+      "BatakoTool.dll": "sha256-FJsHOd0D0gEON+c/Edu6bKLZOkXjbi3ZQrN+1+HDs/U="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
