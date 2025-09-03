@@ -36,6 +36,24 @@ function addMarker(lat, lng, popupHtml, destinationName, color = "red", isBlinki
     marker.bindPopup(fullPopup);
 }
 
+function addMarkerWithIconUrl(lat, lng, popupHtml, destinationName, color = "red", isBlinking = false, iconUrl) {
+    const baseClass = isBlinking ? "blinking-icon" : "";
+
+    const customIcon = L.icon({
+        iconUrl: iconUrl,
+        iconSize: [40, 40],
+        iconAnchor: [20, 40],
+        popupAnchor: [1, -34],
+    });
+
+    //const encodedDestination = encodeURIComponent(destinationName);
+    //const routeLink = `<a href="https://www.google.com/maps/dir/?api=1&destination=${encodedDestination}" target="_blank">📍 現在地からルート</a>`;
+    //const fullPopup = `${popupHtml}<br>${routeLink}`;
+
+    const marker = L.marker([lat, lng], { icon: customIcon }).addTo(markerGroup);
+    marker.bindPopup(popupHtml);
+}
+
 function zoomToMarkers() {
     if (markerGroup && markerGroup.getLayers().length > 0) {
         map.fitBounds(markerGroup.getBounds(), { padding: [20, 20] });
